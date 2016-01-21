@@ -9,16 +9,8 @@
           "email": "jared@upstatement.com"
       }
   ],
-  "extra": {
-  	"installer-paths": {
-      "../../plugins/{$name}/": [
-        "wpackagist-plugin/*",
-        "type:wordpress-plugin"
-      ]
-  	}
-	},
   "require": {
-	  "wpackagist-plugin/timber-library": "0.21.*"
+	  "jarednova/timber": "0.22.*"
   },
   "repositories": [
     {
